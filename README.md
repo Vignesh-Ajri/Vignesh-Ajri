@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vignesh Ajri
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python DRF
+- 🌱 I’m currently learning React
 - 📫 How to reach me ssvignesh2003@gmail.com
