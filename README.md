@@ -1,4 +1,4 @@
-# Hi there, I'm Vignesh Ajri 👋
+# Hi there, I'm Vignesh
 
 **Computer Science Student** | **Aspiring Full-Stack Developer** | **Bengaluru, India** 🇮🇳
 
