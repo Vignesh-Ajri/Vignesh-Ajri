@@ -1,6 +1,6 @@
 # Hi there, I'm Vignesh
 
-**Computer Science Student** | **Aspiring Full-Stack Developer** | **Bengaluru, India** 🇮🇳
+**Computer Science Student** | **Aspiring Full-Stack Developer** | **Bengaluru, India**
 
 Currently pursuing my MCA degree at RIT and passionate about building innovative web applications. I'm actively seeking internship opportunities and part-time work to apply my skills in real-world projects.
 
