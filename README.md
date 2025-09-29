@@ -4,13 +4,13 @@
 
 Currently pursuing my MCA degree at RIT and passionate about building innovative web applications. I'm actively seeking internship opportunities and part-time work to apply my skills in real-world projects.
 
-## 🎯 About Me
+## About Me
 
 I'm a dedicated student with a strong foundation in full-stack development, specializing in modern web technologies. My focus lies in creating efficient, scalable web applications with clean, maintainable code. I'm particularly interested in fintech solutions and enterprise-level applications.
 
-**🔍 Currently Open To**: Internships | Part-time opportunities | Collaborative projects
+** Currently Open To**: Internships | Part-time opportunities | Collaborative projects
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 - Python | Java | JavaScript
@@ -25,11 +25,11 @@ I'm a dedicated student with a strong foundation in full-stack development, spec
 - MySQL | MongoDB
 
 **Currently Learning**
-- DevOps & Cloud Computing ☁️
+- DevOps & Cloud Computing 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔖 [Bookmark Manager](https://github.com/Vignesh-Ajri/bookmark)
+###  [Bookmark Manager](https://github.com/Vignesh-Ajri/bookmark)
 Full-stack bookmark management application built with modern web technologies
 
 ### 📚 [React Learning Journey](https://github.com/Vignesh-Ajri/react-learning-journey)
