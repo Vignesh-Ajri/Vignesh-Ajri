@@ -32,10 +32,10 @@ I'm a dedicated student with a strong foundation in full-stack development, spec
 ###  [Bookmark Manager](https://github.com/Vignesh-Ajri/bookmark)
 Full-stack bookmark management application built with modern web technologies
 
-### 📚 [React Learning Journey](https://github.com/Vignesh-Ajri/react-learning-journey)
+###  [React Learning Journey](https://github.com/Vignesh-Ajri/react-learning-journey)
 Comprehensive repository documenting my React.js learning path with practical examples and mini-projects
 
-## 🎓 Education
+##  Education
 
 **Ramaiah Institute of Technology (RIT)** - Master of Computer Application
 *Bengaluru, Karnataka*
