@@ -40,7 +40,7 @@ Comprehensive repository documenting my React.js learning path with practical ex
 **Ramaiah Institute of Technology (RIT)** - Master of Computer Application
 *Bengaluru, Karnataka*
 
-## 🌟 What I'm Working On
+## What I'm Working On
 
 - Building **full-stack web applications** using React and Django  
 - Exploring **cloud computing** and **DevOps practices**  
