@@ -46,15 +46,15 @@ Comprehensive repository documenting my React.js learning path with practical ex
 - Exploring **cloud computing** and **DevOps practices**  
 - Developing **technology-driven projects** with a focus on modern web solutions
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh-Ajri&show_icons=true&theme=tokyonight)
 
-## 🎯 Career Goals
+## Career Goals
 
 I'm passionate about joining MNCs in the IT/fintech sector where I can contribute to meaningful projects while continuing to grow as a developer. My goal is to become a proficient full-stack developer who can bridge the gap between innovative ideas and robust technical implementations.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always excited to collaborate on interesting projects, discuss new technologies, or explore internship opportunities!
 
