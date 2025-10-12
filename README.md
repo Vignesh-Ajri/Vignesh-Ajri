@@ -58,7 +58,7 @@ I'm passionate about joining MNCs in the IT/fintech sector where I can contribut
 
 I'm always excited to collaborate on interesting projects, discuss new technologies, or explore internship opportunities!
 
-**📧 Open for opportunities in**: Web Development | Full-Stack Development | IT Solutions
+**Open for opportunities in**: Web Development | Full-Stack Development | IT Solutions
 
 ---
 
