@@ -62,4 +62,4 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 
 ---
 
-⭐ Feel free to explore my repositories and don't hesitate to reach out for collaboration or opportunities!
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or opportunities!
