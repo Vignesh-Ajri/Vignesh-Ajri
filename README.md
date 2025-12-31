@@ -1,6 +1,6 @@
 # Hi there, I'm Vignesh Ajri
 
-**Computer Science Student** | **Aspiring Full-Stack Developer** | **Bengaluru, India**
+**Computer Science Student** | **Aspiring Full-Stack Developer** | **DevOps Enthusiast** | **AWS & Docker** | **Bengaluru, India**
 
 Currently pursuing my MCA degree at RIT and passionate about building innovative web applications. I'm actively seeking internship opportunities and part-time work to apply my skills in real-world projects.
 
@@ -16,16 +16,22 @@ I'm a dedicated student with a strong foundation in full-stack development, spec
 - Python | Java | JavaScript
 
 **Frontend**
-- React.js | HTML5 | CSS3 | Responsive Design
+- React.js | HTML5 | CSS3 | Responsive Design | Tailwind CSS
 
 **Backend** 
 - Django | Express.js | RESTful APIs
 
 **Databases**
 - MySQL | MongoDB
+  
+**DevOps**
+- Docker | Kubernetes
+  
+**Cloud**
+- AWS (EC2, S3, Lambda)
 
-**Currently Learning**
-- DevOps & Cloud Computing 
+**Tools**
+- Git | Linux (Ubuntu) | Postman
 
 ## Featured Projects
 
