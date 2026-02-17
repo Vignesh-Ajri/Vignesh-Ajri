@@ -54,7 +54,7 @@ Comprehensive repository documenting my React.js learning path with practical ex
 
 ## GitHub Stats
 
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh-Ajri&show_icons=true&theme=tokyonight)
+![Vignesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vignesh-Ajri&show_icons=true&theme=tokyonight)
 
 ## Career Goals
 
