@@ -56,19 +56,11 @@ Comprehensive repository documenting my React.js learning path with practical ex
 
 ![Vignesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vignesh-Ajri&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-Ajri&theme=tokyonight)
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vignesh-Ajri&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vignesh-Ajri&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Vignesh-Ajri&theme=tokyonight)
-
-## 🔥 Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-Ajri&theme=tokyonight)
-
 
 ## Career Goals
 
