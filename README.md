@@ -1,14 +1,14 @@
 # Hi there, I'm Vignesh Ajri
-
-**Computer Science Student** | **Aspiring Full-Stack Developer** | **DevOps Enthusiast** | **AWS & Docker** | **Bengaluru, India**
-
-Currently pursuing my MCA degree at RIT and passionate about building innovative web applications. I'm actively seeking internship opportunities and part-time work to apply my skills in real-world projects.
+Building scalable web applications with React, Node.js and cloud technologies.
+Frontend Developer | React Specialist | Full-Stack Developer | Java & Spring Boot | AWS & DevOps
+---
+MCA student at Ramaiah Institute of Technology with a strong foundation in modern web development. I build responsive, scalable and performance-optimized web applications using React, Django and cloud technologies. Actively seeking internship opportunities where I can contribute to real-world projects and grow as a developer.
 
 ## About Me
 
-I'm a dedicated student with a strong foundation in full-stack development, specializing in modern web technologies. My focus lies in creating efficient, scalable web applications with clean, maintainable code. I'm particularly interested in fintech solutions and enterprise-level applications.
+I specialize in building modern full-stack applications using React, Node.js and Express with a strong emphasis on clean architecture, scalability and performance optimization. I enjoy solving real-world problems through technology and continuously improving my understanding of system design, cloud infrastructure, and DevOps practices.
 
-**Currently Open To**: Internships | Part-time opportunities | Collaborative projects
+**Currently Open To**: Frontend Developer Internships | Full-Stack Internships | Remote Opportunities | Collaborative Projects
 
 ## Tech Stack
 
@@ -18,8 +18,8 @@ I'm a dedicated student with a strong foundation in full-stack development, spec
 **Frontend**
 - React.js | HTML5 | CSS3 | Responsive Design | Tailwind CSS
 
-**Backend** 
-- Django | Express.js | RESTful APIs
+**Backend**
+- Django | Express.js | Spring Boot | RESTful APIs
 
 **Databases**
 - MySQL | MongoDB
@@ -35,11 +35,39 @@ I'm a dedicated student with a strong foundation in full-stack development, spec
 
 ## Featured Projects
 
-###  [Bookmark Manager](https://github.com/Vignesh-Ajri/bookmark)
-Full-stack bookmark management application built with modern web technologies
+### Portfolio App (React + Vite)
+https://github.com/Vignesh-Ajri/portfolio-app  
+Live: https://vigneshajri.pages.dev/
 
-###  [React Learning Journey](https://github.com/Vignesh-Ajri/react-learning-journey)
-Comprehensive repository documenting my React.js learning path with practical examples and mini-projects
+A modern, responsive portfolio built using React and Vite featuring lazy loading, route handling, resume integration and performance optimization.
+
+---
+
+### Car Scrolling Animation (React Frontend)
+https://github.com/Vignesh-Ajri/car-scrolling-animation
+
+An interactive scroll-based animation project built with React showcasing UI creativity, component architecture and smooth animation handling.
+
+---
+
+### React Learning Journey
+https://github.com/Vignesh-Ajri/react-learning-journey
+
+A structured collection of React projects demonstrating hooks, routing, state management and performance best practices.
+
+---
+
+### Student Management REST API (Spring Boot)
+https://github.com/Vignesh-Ajri/springboot-starter-api
+
+A backend-only REST API built with Java 21 and Spring Boot featuring layered architecture, validation, global exception handling and H2 database integration.
+
+---
+
+### Full-Stack Quiz Application
+https://github.com/Vignesh-Ajri/quiz
+
+A full-stack quiz platform built with React (frontend) and Node.js/Express (backend) including authentication, quiz management and result tracking.
 
 ##  Education
 
@@ -48,9 +76,9 @@ Comprehensive repository documenting my React.js learning path with practical ex
 
 ## What I'm Working On
 
-- Building **full-stack web applications** using React and Django  
-- Exploring **cloud computing** and **DevOps practices**  
-- Developing **technology-driven projects** with a focus on modern web solutions
+- Building scalable full-stack applications using React and backend frameworks  
+- Exploring cloud deployment strategies and DevOps workflows  
+- Strengthening system design and backend architecture fundamentals
 
 ## GitHub Stats
 
@@ -63,11 +91,11 @@ Comprehensive repository documenting my React.js learning path with practical ex
 
 ## Career Goals
 
-I'm passionate about joining MNCs in the IT/fintech sector where I can contribute to meaningful projects while continuing to grow as a developer. My goal is to become a proficient full-stack developer who can bridge the gap between innovative ideas and robust technical implementations.
+I aim to grow as a frontend and full-stack developer by contributing to scalable, high-impact products. My long-term goal is to design and build robust applications that solve real-world problems efficiently.
 
 ## Let's Connect
 
-I'm always excited to collaborate on interesting projects, discuss new technologies, or explore internship opportunities!
+I'm always excited to collaborate on interesting projects, discuss new technologies or explore internship opportunities!
 
 **Open for opportunities in**: Web Development | Full-Stack Development | IT Solutions
 
