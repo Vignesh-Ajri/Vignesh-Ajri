@@ -66,18 +66,29 @@ Frontend Developer Internships | Full-Stack Internships | Remote Opportunities |
 
 ## Featured Projects
 
-### Portfolio App (React + Vite)
+### Client Portfolio Website (React + Vite)
 
-[https://github.com/Vignesh-Ajri/portfolio-app](https://github.com/Vignesh-Ajri/portfolio-app)
-Live: [https://vigneshajri.pages.dev/](https://vigneshajri.pages.dev/)
+Repository: https://github.com/Vignesh-Ajri/portfolio-app
+Live: [https://vignesh-ajri.github.io/portfolio-app](https://vignesh-ajri.github.io/portfolio-app/)
 
-A modern, responsive portfolio built using React and Vite featuring lazy loading, route handling, resume integration and performance optimization.
+A modern React-based portfolio website developed for a client, focusing on responsive design, performance optimization, clean UI structure, and SEO-friendly deployment.
+
+This project demonstrates real-world frontend development experience, including requirement-based implementation and production deployment.
+
+---
+
+### Personal Portfolio Website
+
+Repository: https://github.com/Vignesh-Ajri/my_portfolio
+Live: https://vigneshajri.pages.dev/
+
+My personal developer portfolio built using HTML, CSS, JavaScript and performance optimization.
 
 ---
 
 ### Car Scrolling Animation (React Frontend)
-
-[https://github.com/Vignesh-Ajri/car-scrolling-animation](https://github.com/Vignesh-Ajri/car-scrolling-animation)
+Repository: https://github.com/Vignesh-Ajri/car-scrolling-animation
+Link: [https://github.com/Vignesh-Ajri/car-scrolling-animation](https://github.com/Vignesh-Ajri/car-scrolling-animation)
 
 An interactive scroll-based animation project built with React showcasing UI creativity, component architecture and smooth animation handling.
 
