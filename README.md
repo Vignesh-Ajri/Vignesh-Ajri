@@ -1,5 +1,6 @@
 # Hi there, I'm Vignesh Ajri
 Building scalable web applications with React, Node.js and cloud technologies.
+---
 Frontend Developer | React Specialist | Full-Stack Developer | Java & Spring Boot | AWS & DevOps
 ---
 MCA student at Ramaiah Institute of Technology with a strong foundation in modern web development. I build responsive, scalable and performance-optimized web applications using React, Django and cloud technologies. Actively seeking internship opportunities where I can contribute to real-world projects and grow as a developer.
