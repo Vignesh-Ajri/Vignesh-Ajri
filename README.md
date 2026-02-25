@@ -8,7 +8,7 @@ Currently pursuing my MCA degree at RIT and passionate about building innovative
 
 I'm a dedicated student with a strong foundation in full-stack development, specializing in modern web technologies. My focus lies in creating efficient, scalable web applications with clean, maintainable code. I'm particularly interested in fintech solutions and enterprise-level applications.
 
-** Currently Open To**: Internships | Part-time opportunities | Collaborative projects
+**Currently Open To**: Internships | Part-time opportunities | Collaborative projects
 
 ## Tech Stack
 
