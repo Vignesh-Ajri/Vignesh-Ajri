@@ -49,6 +49,7 @@ Frontend Developer Internships | Full-Stack Internships | Remote Opportunities |
 
 ### DevOps
 
+* Jenkins
 * Docker
 * Kubernetes
 
