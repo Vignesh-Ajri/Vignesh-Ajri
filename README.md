@@ -1,6 +1,6 @@
 # Hi there, I'm Vignesh Ajri
 
-### Frontend Developer | React Specialist | Full-Stack Developer | Java & Spring Boot | AWS &
+### Frontend Developer | React Specialist | Full-Stack Developer | Java & Spring Boot | AWS & DevOps
 
 > **Building scalable web applications with React, Node.js and cloud technologies.**
 
