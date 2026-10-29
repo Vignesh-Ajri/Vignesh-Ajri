@@ -24,7 +24,6 @@ Frontend Developer Internships | Full-Stack Internships | Remote Opportunities |
 ### Languages
 
 * Python
-* Java
 * JavaScript
 
 ### Frontend
